@@ -7,6 +7,14 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Tom Chant",
-  "license": "ISC"
+  "author": "Valentin Chudinovich",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dunkchump/16.05.2025AlittleAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dunkchump/16.05.2025AlittleAPI/issues"
+  },
+  "homepage": "https://github.com/Dunkchump/16.05.2025AlittleAPI#readme"
 }
